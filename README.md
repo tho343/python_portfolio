@@ -16,5 +16,5 @@ I'm passionate about building scalable, automated systems to validate networks, 
 ## 📫 Contact
 
 - Email: tranho8596@gmail.com
-- LinkedIn: [Insert your LinkedIn]
-- GitHub: [github.com/yourusername]
+- LinkedIn: [https://www.linkedin.com/in/tran-ho-computer-sciencetist/]
+- GitHub: [github.com/tho343]
