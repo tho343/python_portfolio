@@ -21,4 +21,8 @@ This project aims to [brief summary — e.g., automate the health checking of ne
 
 1. Clone this repository.
 2. Install Python 3 if not installed.
-3. Run the script
+3. Run the script : python3 health_checker.py
+
+## Sample output
+
+![Health_Checker](./network_health_checker_output.png)
