@@ -24,3 +24,5 @@ This project automates the process of DNS lookups to validate domain name resolu
    4.View DNS resolution results in the terminal.
 
 ## Sample Output
+
+![DNS Lookup output](./dns_lookup_output.png)
