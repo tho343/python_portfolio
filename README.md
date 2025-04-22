@@ -9,9 +9,7 @@ I'm passionate about building scalable, automated systems to validate networks, 
 ## 🛠 Projects
 
 - **Network Health Checker**: Automated tool for validating device connectivity using Python and sockets.
-- **Web UI Automation**: Selenium-based automation of web applications for end-to-end testing.
-- **DHCP Lease Monitor**: Python script to dynamically monitor and report DHCP leases across a network.
-- **API Testing Automation**: Python-based test suite validating API responses and reliability.
+- **DNS Lookup Automation**: Lookup IP and validate domain name resolution using Python3 and socket model
 
 ## 📫 Contact
 
